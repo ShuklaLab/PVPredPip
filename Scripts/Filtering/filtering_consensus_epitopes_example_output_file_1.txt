@@ -1,0 +1,158 @@
+Cluster Number	Peptide Number	Alignment	Position	Description	Peptide
+1	Consensus	QDVNCTEVPVAIHADQLTPTWRVYSTGSNVFQTRAGCLIGAEH	-	-	-
+1	1	QDVNCTEVPVAIHADQLTPT-----------------------	1	"	ABCPred B-cell epitope	613	632"	QDVNCTEVPVAIHADQLTPT
+1	2	-DVNCTEVPVAIHADQLTPTW----------------------	2	"	ABCPred B-cell epitope	614	633"	DVNCTEVPVAIHADQLTPTW
+1	3	------EVPVAIHADQLTPTWRVYST-----------------	7	"	ABCPred B-cell epitope	619	638"	EVPVAIHADQLTPTWRVYST
+1	4	--------PVAIHADQLTPTWRVYSTGS---------------	9	"	ABCPred B-cell epitope	621	640"	PVAIHADQLTPTWRVYSTGS
+1	5	--------------DQLTPTWRVYSTGSNV-------------	15	"	ABCPred B-cell epitope	627	642"	DQLTPTWRVYSTGSNV
+1	6	-----------------TPTWRVYSTGSNVFQT----------	18	"	ABCPred B-cell epitope	630	645"	TPTWRVYSTGSNVFQT
+1	7	-------------------TWRVYSTGSNVFQT----------	20	"	ABCPred B-cell epitope	632	645"	TWRVYSTGSNVFQT
+1	8	---------------------RVYSTGSNVFQTRAGCLI----	22	"	ABCPred B-cell epitope	634	651"	RVYSTGSNVFQTRAGCLI
+1	9	---------------------RVYSTGSNVFQTRAGC------	22	"	ABCPred B-cell epitope	634	649"	RVYSTGSNVFQTRAGC
+1	10	---------------------RVYSTGS---------------	22	"	BcePred B-cell epitope	634	640"	RVYSTGS
+1	11	----------------------VYSTGSNVFQTRAGCLIG---	23	"	ABCPred B-cell epitope	635	652"	VYSTGSNVFQTRAGCLIG
+1	12	--------------------------GSNVFQTRAGCLIG---	27	"	ABCPred B-cell epitope	639	652"	GSNVFQTRAGCLIG
+1	13	---------------------------SNVFQTRAGCLIGA--	28	"	ABCPred B-cell epitope	640	653"	SNVFQTRAGCLIGA
+1	14	-----------------------------VFQTRAGCLIGAEH	30	"	ABCPred B-cell epitope	642	655"	VFQTRAGCLIGAEH
+2	Consensus	ISVTTEILPVSMTKTSVDCTMYICGDSTECSNLLLQY	-	-	-
+2	1	ISVTTEILPVSMTKTSVDCT-----------------	1	"	ABCPred B-cell epitope	720	739"	ISVTTEILPVSMTKTSVDCT
+2	2	-----EILPVSMTKTSVDCTMYI--------------	6	"	ABCPred B-cell epitope	725	742"	EILPVSMTKTSVDCTMYI
+2	3	------ILPVSMTKTSVDCT-----------------	7	"	ABCPred B-cell epitope	726	739"	ILPVSMTKTSVDCT
+2	4	-------LPVSMTKTSVDCTMYICG------------	8	"	ABCPred B-cell epitope	727	744"	LPVSMTKTSVDCTMYICG
+2	5	-------LPVSMTK-----------------------	8	"	BcePred B-cell epitope	727	733"	LPVSMTK
+2	6	------------TKTSVDCTMYICGDSTEC-------	13	"	ABCPred B-cell epitope	732	749"	TKTSVDCTMYICGDSTEC
+2	7	------------TKTSVDCTMYICGDST---------	13	"	ABCPred B-cell epitope	732	747"	TKTSVDCTMYICGDST
+2	8	---------------SVDCTMYICGDSTECS------	16	"	ABCPred B-cell epitope	735	750"	SVDCTMYICGDSTECS
+2	9	-------------------TMYICGDSTECSNLLL--	20	"	ABCPred B-cell epitope	739	754"	TMYICGDSTECSNLLL
+2	10	---------------------YICGDSTECSNLLLQY	22	"	ABCPred B-cell epitope	741	756"	YICGDSTECSNLLLQY
+2	11	---------------------YICGDSTECSNLLL--	22	"	ABCPred B-cell epitope	741	754"	YICGDSTECSNLLL
+2	12	----------------------ICGDSTEC-------	23	"	BcePred B-cell epitope	742	749"	ICGDSTEC
+3	Consensus	STEKSNIIRGWIFGTTLDSKTQSLLIVNNATNVV	-	-	-
+3	1	STEKSNIIRGWIFGTTLD----------------	1	"	ABCPred B-cell epitope	94	111"	STEKSNIIRGWIFGTTLD
+3	2	---KSNIIRGWIFGTTLDS---------------	4	"	ABCPred B-cell epitope	97	112"	KSNIIRGWIFGTTLDS
+3	3	-------IRGWIFGTTLDSKTQS-----------	8	"	ABCPred B-cell epitope	101	116"	IRGWIFGTTLDSKTQS
+3	4	---------GWIFGTTLDSKTQSLLIVNN-----	10	"	ABCPred B-cell epitope	103	122"	GWIFGTTLDSKTQSLLIVNN
+3	5	----------WIFGTTLDSKTQ------------	11	"	ABCPred B-cell epitope	104	115"	WIFGTTLDSKTQ
+3	6	------------FGTTLDSKTQSL----------	13	"	ABCPred B-cell epitope	106	117"	FGTTLDSKTQSL
+3	7	-------------GTTLDSKTQSLLIVNNATNV-	14	"	ABCPred B-cell epitope	107	126"	GTTLDSKTQSLLIVNNATNV
+3	8	--------------TTLDSKTQSLLIVNNATNVV	15	"	ABCPred B-cell epitope	108	127"	TTLDSKTQSLLIVNNATNVV
+3	9	--------------TTLDSKTQ------------	15	"	BcePred B-cell epitope	108	115"	TTLDSKTQ
+3	10	------------------SKTQSLLIVNNATN--	19	"	ABCPred B-cell epitope	112	125"	SKTQSLLIVNNATN
+3	11	----------------------SLLIVNNATNVV	23	"	ABCPred B-cell epitope	116	127"	SLLIVNNATNVV
+4	Consensus	VYSSANNCTFEYVSQPFLMDLEGKQGNFKNLREFVFKNI	-	-	-
+4	1	VYSSANNCTFEYVSQPFL---------------------	1	"	ABCPred B-cell epitope	159	176"	VYSSANNCTFEYVSQPFL
+4	2	-YSSANNCTFEYVSQPFLMDL------------------	2	"	ABCPred B-cell epitope	160	179"	YSSANNCTFEYVSQPFLMDL
+4	3	-YSSANNCTFEYVSQPFLM--------------------	2	"	ABCPred B-cell epitope	160	177"	YSSANNCTFEYVSQPFLM
+4	4	-------CTFEYVSQPFLMDLEGKQGN------------	8	"	ABCPred B-cell epitope	166	185"	CTFEYVSQPFLMDLEGKQGN
+4	5	--------TFEYVSQPFLMDLEGKQGNF-----------	9	"	ABCPred B-cell epitope	167	186"	TFEYVSQPFLMDLEGKQGNF
+4	6	---------FEYVSQPFLMDLEGKQGN------------	10	"	ABCPred B-cell epitope	168	185"	FEYVSQPFLMDLEGKQGN
+4	7	------------VSQPFLMDLEGKQGNFKNLR-------	13	"	ABCPred B-cell epitope	171	190"	VSQPFLMDLEGKQGNFKNLR
+4	8	------------------MDLEGKQ--------------	19	"	BcePred B-cell epitope	177	183"	MDLEGKQ
+4	9	-------------------DLEGKQGNFKNLREFVFKNI	20	"	ABCPred B-cell epitope	178	197"	DLEGKQGNFKNLREFVFKNI
+4	10	------------------------QGNFKNLREFVF---	25	"	ABCPred B-cell epitope	183	194"	QGNFKNLREFVF
+5	Consensus	YQPYRVVVLSFELLHAPATVCGPKKSTNLVKNKCVNFNFNGLTGTGVLTE	-	-	-
+5	1	YQPYRVVVLSFELLHAPATV------------------------------	1	"	ABCPred B-cell epitope	505	524"	YQPYRVVVLSFELLHAPATV
+5	2	---------SFELLHAPATVCGP---------------------------	10	"	ABCPred B-cell epitope	514	527"	SFELLHAPATVCGP
+5	3	----------FELLHAPATVCGPKKSTN----------------------	11	"	ABCPred B-cell epitope	515	532"	FELLHAPATVCGPKKSTN
+5	4	-----------------ATVCGPKKST-----------------------	18	"	BcePred B-cell epitope	522	531"	ATVCGPKKST
+5	5	--------------------CGPKKSTNLVKNKCVN--------------	21	"	ABCPred B-cell epitope	525	540"	CGPKKSTNLVKNKCVN
+5	6	---------------------GPKKSTNLVKNKCVNFNF-----------	22	"	ABCPred B-cell epitope	526	543"	GPKKSTNLVKNKCVNFNF
+5	7	-------------------------STNLVKNKCVNFNFNGLT-------	26	"	ABCPred B-cell epitope	530	547"	STNLVKNKCVNFNFNGLT
+5	8	----------------------------LVKNKCVNFNFNGLTGTG----	29	"	ABCPred B-cell epitope	533	550"	LVKNKCVNFNFNGLTGTG
+5	9	------------------------------KNKCVNFNFNGLTGTGVLTE	31	"	ABCPred B-cell epitope	535	554"	KNKCVNFNFNGLTGTGVLTE
+5	10	----------------------------------VNFNFNGLTGTGVL--	35	"	ABCPred B-cell epitope	539	552"	VNFNFNGLTGTGVL
+6	Consensus	LHRSYLTPGDSSSGWTAGAAAYYVGYLQPRTFLLKYNE	-	-	-
+6	1	LHRSYLTPGDSSSG------------------------	1	"	ABCPred B-cell epitope	244	257"	LHRSYLTPGDSSSG
+6	2	-HRSYLTPGDSSSGWTA---------------------	2	"	ABCPred B-cell epitope	245	260"	HRSYLTPGDSSSGWTA
+6	3	---SYLTPGDSSSGWTAGAAAYY---------------	4	"	ABCPred B-cell epitope	247	266"	SYLTPGDSSSGWTAGAAAYY
+6	4	---SYLTPGDSS--------------------------	4	"	BcePred B-cell epitope	247	255"	SYLTPGDSS
+6	5	----YLTPGDSSSGWTAGAAAYYV--------------	5	"	ABCPred B-cell epitope	248	267"	YLTPGDSSSGWTAGAAAYYV
+6	6	-----LTPGDSSSGWTAGAAAYYVG-------------	6	"	ABCPred B-cell epitope	249	268"	LTPGDSSSGWTAGAAAYYVG
+6	7	-------------GWTAGAAAYYVGYLQP---------	14	"	ABCPred B-cell epitope	257	272"	GWTAGAAAYYVGYLQP
+6	8	----------------AGAAAYYVGYLQPRTF------	17	"	ABCPred B-cell epitope	260	275"	AGAAAYYVGYLQPRTF
+6	9	--------------------AYYVGYLQPRTFLLKYNE	21	"	ABCPred B-cell epitope	264	281"	AYYVGYLQPRTFLLKYNE
+6	10	----------------------YVGYLQPRTFLLKYNE	23	"	ABCPred B-cell epitope	266	281"	YVGYLQPRTFLLKYNE
+8	Consensus	ASYQTQTNSPRRARSVASQSIIAYTMSLGAENSVAYSNN	-	-	-
+8	1	ASYQTQTNSPRRA--------------------------	1	"	BcePred B-cell epitope	672	684"	ASYQTQTNSPRRA
+8	2	--YQTQTNSPRRARSVASQS-------------------	3	"	ABCPred B-cell epitope	674	691"	YQTQTNSPRRARSVASQS
+8	3	--YQTQTNSPRRARSVAS---------------------	3	"	ABCPred B-cell epitope	674	689"	YQTQTNSPRRARSVAS
+8	4	----------RRARSVASQSIIAY---------------	11	"	ABCPred B-cell epitope	682	695"	RRARSVASQSIIAY
+8	5	-------------RSVASQSIIAYTMS------------	14	"	ABCPred B-cell epitope	685	698"	RSVASQSIIAYTMS
+8	6	-----------------SQSIIAYTMSLGAENS------	18	"	ABCPred B-cell epitope	689	704"	SQSIIAYTMSLGAENS
+8	7	-------------------SIIAYTMSLGAENS------	20	"	ABCPred B-cell epitope	691	704"	SIIAYTMSLGAENS
+8	8	---------------------IAYTMSLGAENSVAYSNN	22	"	ABCPred B-cell epitope	693	710"	IAYTMSLGAENSVAYSNN
+11	Consensus	TPCSFGGVSVITPGTNTSNQVA	-	-	-
+11	1	TPCSFGGVSVITPGTNTSNQ--	1	"	ABCPred B-cell epitope	588	607"	TPCSFGGVSVITPGTNTSNQ
+11	2	-PCSFGGVSVITPGTNTSNQV-	2	"	ABCPred B-cell epitope	589	608"	PCSFGGVSVITPGTNTSNQV
+11	3	-PCSFGGVSVITPGTNTSN---	2	"	ABCPred B-cell epitope	589	606"	PCSFGGVSVITPGTNTSN
+11	4	--CSFGGVSVITPGTNTSNQ--	3	"	ABCPred B-cell epitope	590	607"	CSFGGVSVITPGTNTSNQ
+11	5	------GVSVITPGTNTSNQVA	7	"	ABCPred B-cell epitope	594	609"	GVSVITPGTNTSNQVA
+11	6	------GVSVITPGTN------	7	"	ABCPred B-cell epitope	594	603"	GVSVITPGTN
+11	7	---------VITPGTNTS----	10	"	BcePred B-cell epitope	597	605"	VITPGTNTS
+13	Consensus	GVYYHKNNKSWMESEFRVYSSANNCT	-	-	-
+13	1	GVYYHKNNKSWMESEFRV--------	1	"	ABCPred B-cell epitope	142	159"	GVYYHKNNKSWMESEFRV
+13	2	-VYYHKNNKSWMESEFRVYSS-----	2	"	ABCPred B-cell epitope	143	162"	VYYHKNNKSWMESEFRVYSS
+13	3	-VYYHKNNKSWMESE-----------	2	"	ABCPred B-cell epitope	143	156"	VYYHKNNKSWMESE
+13	4	-VYYHKNN------------------	2	"	BcePred B-cell epitope	143	149"	VYYHKNN
+13	5	-----KNNKSWMESEFRVYSSANNC-	6	"	ABCPred B-cell epitope	147	166"	KNNKSWMESEFRVYSSANNC
+13	6	---------SWMESEFRVYSSANNC-	10	"	ABCPred B-cell epitope	151	166"	SWMESEFRVYSSANNC
+13	7	----------WMESEFRVYSSANNCT	11	"	ABCPred B-cell epitope	152	167"	WMESEFRVYSSANNCT
+14	Consensus	YNENGTITDAVDCALDPLSETKCTLKSFTVE	-	-	-
+14	1	YNENGTITDAVDCA-----------------	1	"	ABCPred B-cell epitope	279	292"	YNENGTITDAVDCA
+14	2	-NENGTITDAVDCALDP--------------	2	"	ABCPred B-cell epitope	280	295"	NENGTITDAVDCALDP
+14	3	--ENGTITDAVDCALD---------------	3	"	ABCPred B-cell epitope	281	294"	ENGTITDAVDCALD
+14	4	-------TDAVDCALDPLSET----------	8	"	ABCPred B-cell epitope	286	299"	TDAVDCALDPLSET
+14	5	---------AVDCALDPLSETKCTL------	10	"	ABCPred B-cell epitope	288	303"	AVDCALDPLSETKCTL
+14	6	-----------DCALDPLSETKCTLKSFTVE	12	"	ABCPred B-cell epitope	290	309"	DCALDPLSETKCTLKSFTVE
+14	7	---------------DPLSETK---------	16	"	BcePred B-cell epitope	294	300"	DPLSETK
+15	Consensus	PFGEVFNATRFASVYAWNRKRISNCVA	-	-	-
+15	1	PFGEVFNATRFASVYAWNRK-------	1	"	ABCPred B-cell epitope	337	356"	PFGEVFNATRFASVYAWNRK
+15	2	--------TRFASVYAWNRKRI-----	9	"	ABCPred B-cell epitope	345	358"	TRFASVYAWNRKRI
+15	3	---------RFASVYAWNRKRISNCVA	10	"	ABCPred B-cell epitope	346	363"	RFASVYAWNRKRISNCVA
+15	4	---------RFASVYAWNRKRIS----	10	"	ABCPred B-cell epitope	346	359"	RFASVYAWNRKRIS
+15	5	----------FASVYAWNRKRISNCV-	11	"	ABCPred B-cell epitope	347	362"	FASVYAWNRKRISNCV
+15	6	--------------YAWNRKRI-----	15	"	BcePred B-cell epitope	351	358"	YAWNRKRI
+21	Consensus	IHVSGTNGTKRFDNPVLPFN	-	-	-
+21	1	IHVSGTNGTKRFDNPVLPFN	1	"	ABCPred B-cell epitope	68	87"	IHVSGTNGTKRFDNPVLPFN
+21	2	IHVSGTNGT-----------	1	"	BcePred B-cell epitope	68	76"	IHVSGTNGT
+21	3	--VSGTNGTKRFDNPVLP--	3	"	ABCPred B-cell epitope	70	85"	VSGTNGTKRFDNPVLP
+21	4	--VSGTNGTKRFDNPV----	3	"	ABCPred B-cell epitope	70	83"	VSGTNGTKRFDNPV
+22	Consensus	IAVEQDKNTQEVFAQVKQIYKTPP	-	-	-
+22	1	IAVEQDKNT---------------	1	"	BcePred B-cell epitope	770	778"	IAVEQDKNT
+22	2	-AVEQDKNTQEVFAQ---------	2	"	ABCPred B-cell epitope	771	784"	AVEQDKNTQEVFAQ
+22	3	--VEQDKNTQEVFAQV--------	3	"	ABCPred B-cell epitope	772	785"	VEQDKNTQEVFAQV
+22	4	----QDKNTQEVFAQVKQIYKTPP	5	"	ABCPred B-cell epitope	774	793"	QDKNTQEVFAQVKQIYKTPP
+33	Consensus	CVIAWNSNNLDSKVGCVIAWNSNNLDSKVGGNYN	-	-	-
+33	1	CVIAWNSNNLDSKV--------------------	1	"	ABCPred B-cell epitope	432	445"	CVIAWNSNNLDSKV
+33	2	-------NNLDSKVG-------------------	8	"	BcePred B-cell epitope	439	446"	NNLDSKVG
+33	3	--------------GCVIAWNSNNLDSKVGGNYN	15	"	ABCPred B-cell epitope	431	450"	GCVIAWNSNNLDSKVGGNYN
+34	Consensus	GNYNYLYRLFRKSNLKPF	-	-	-
+34	1	GNYNYLYRLFRKSNLKPF	1	"	ABCPred B-cell epitope	447	464"	GNYNYLYRLFRKSNLKPF
+34	2	---NYLYRLFRKSNL---	4	"	ABCPred B-cell epitope	450	461"	NYLYRLFRKSNL
+34	3	-------RLFRKSNL---	8	"	BcePred B-cell epitope	454	461"	RLFRKSNL
+37	Consensus	GGFNFSQILPDPSKPSKRSFI	-	-	-
+37	1	GGFNFSQILPDPSKPSKR---	1	"	ABCPred B-cell epitope	798	815"	GGFNFSQILPDPSKPSKR
+37	2	-----SQILPDPSKPSKRSFI	6	"	ABCPred B-cell epitope	803	818"	SQILPDPSKPSKRSFI
+37	3	------QILPDPSKPSKR---	7	"	BcePred B-cell epitope	804	815"	QILPDPSKPSKR
+38	Consensus	QKEIDRLNEVAKNLNESLI	-	-	-
+38	1	QKEIDRLNEVAKNLNE---	1	"	ABCPred B-cell epitope	1180	1195"	QKEIDRLNEVAKNLNE
+38	2	-KEIDRLNEVAKNLNESLI	2	"	ABCPred B-cell epitope	1181	1198"	KEIDRLNEVAKNLNESLI
+38	3	--------EVAKNLN----	9	"	BcePred B-cell epitope	1188	1194"	EVAKNLN
+45	Consensus	VLPFNDGVYFASTEK	-	-	-
+45	1	VLPFNDGVYFASTE-	1	"	ABCPred B-cell epitope	83	96"	VLPFNDGVYFASTE
+45	2	-------VYFASTEK	8	"	BcePred B-cell epitope	90	97"	VYFASTEK
+46	Consensus	LTGTGVLTESNKKF	-	-	-
+46	1	LTGTGVLTESNKKF	1	"	ABCPred B-cell epitope	546	559"	LTGTGVLTESNKKF
+46	2	----GVLTESNK--	5	"	BcePred B-cell epitope	550	557"	GVLTESNK
+47	Consensus	IGKIQDSLSSTASALG	-	-	-
+47	1	IGKIQDSLSSTASALG	1	"	ABCPred B-cell epitope	931	946"	IGKIQDSLSSTASALG
+47	2	-GKIQDSLS-------	2	"	BcePred B-cell epitope	932	939"	GKIQDSLS
+48	Consensus	TLVKQLSSNFGAISS	-	-	-
+48	1	TLVKQLS--------	1	"	BcePred B-cell epitope	961	967"	TLVKQLS
+48	2	-LVKQLSSNFGAISS	2	"	ABCPred B-cell epitope	962	975"	LVKQLSSNFGAISS
+53	Consensus	EVRQIAPGQTGKIADY	-	-	-
+53	1	EVRQIAPGQTGKIADY	1	"	ABCPred B-cell epitope	406	421"	EVRQIAPGQTGKIADY
+53	2	---QIAPGQT------	4	"	BcePred B-cell epitope	409	415"	QIAPGQT
+54	Consensus	CCSCGSCCKFDEDDSE	-	-	-
+54	1	CCSCGSCCKFDEDDSE	1	"	ABCPred B-cell epitope	1247	1262"	CCSCGSCCKFDEDDSE
+54	2	-------CKFDEDDS-	8	"	BcePred B-cell epitope	1254	1261"	CKFDEDDS

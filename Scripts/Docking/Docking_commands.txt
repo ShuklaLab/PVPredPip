@@ -1,0 +1,75 @@
+## Molecular Docking
+#
+# All the input files required for performing docking is provided in the folder Docking_input_files
+#
+# Users are encouraged to follow the tutorials available at http://ringo.ams.stonybrook.edu/index.php/Rizzo_Lab_Information_and_Tutorials#DOCK
+# for detailed description of all the steps and description of all the parameters.
+
+1. Preparation of the ligand and receptor
+
+# Preparation of receptor file
+          - Open the complex PDB file in Chimera
+          - Isolate the receptor using Chimera's select and delete tool by deleting the ligand, water molecules and ions, if any.
+          - Next, delete all the hydrogen atoms and save the receptor as a mol2 file. (receptor.noH.mol2)
+
+- Open the receptor file (receptor.noH.mol2) in Chimera
+          - Add Hydrogens using Tools -> Structure Editing -> addH 
+          - Add Charge using Tools -> Structure Editing -> Add Charge
+          - Save as a mol2 file. (receptor.withH.mol2)
+
+- The above steps can also be accomplished by
+          Tools -> Structure/Binding Analysis -> DockPrep
+
+# Preparation of ligand file
+- Open the complex PDB file using Chimera.
+- Isolate the ligand by deleting the receptor and other molecules and follow the steps as followed for the preparation of receptor file, i.e.,
+          - Add Hydrogen atoms
+          - Add charge
+          - Save as mol2 fie. (ligand.withH.mol2)
+
+
+2. Generation of receptor surface and spheres
+
+# Preparation of DMS file
+
+- Open the receptor file (receptor.noH.mol2) using chimera and follow the steps below
+          - Action -> Surface -> Show
+          - Tools -> Structure Editing -> Write DMS
+          - Save the dms file as receptor.noH.dms
+
+- Open the receptor.noH.dms file in chimera to make sure that the dms file is correctly generated.
+
+# Generation of spheres
+          - Generate the spheres by executing the following command.
+ 
+ sphgen -i INSPH -o OUTSPH
+
+  where, INSPH is the input file containing all the parameters for generation of spheres.
+
+The above command will generate a sphere file (receptor.sph).
+
+# Selecting Spheres for definition of the binding pocket 
+
+sphere_selector receptor.sph ligand.withH.mol2 10.0
+
+Execution of above command will select all the spheres within 10 Angstrom of the ligand
+
+3. Generation of box and grid
+
+# Generation of Box
+- Execute the following command for generating the box. The input file showbox.in contains all the necessary parameters and will generate a box file after execution. (receptor.box.pdb)
+
+showbox < showbox.in
+
+# Generation of Grid
+
+grid -i grid.in -o gridinfo.out
+
+The file grid.in contains all the parameters and successful execution of the above command will generate three files: gridinfo.out, grid.nrg, grid.bmp.
+
+
+4. Rigid & fexible docking
+- Rigid or flexible docking can be performed by executing the following command
+
+ dock6 -i min.in
+ dock6 -i flex.in
