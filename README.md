@@ -6,7 +6,7 @@ PVPredPip (v1.0) is an immuno-informatics pipeline for predicting peptide-based 
 
 **Visit us at:** [Shukla Lab](https://shuklalab.github.io/)
 
-# Scripts
+## Scripts
 
 All the in-house scripts used in this pipeline are present in the Scripts folder.
 
