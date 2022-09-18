@@ -8,7 +8,7 @@ PVPredPip (v1.0) is an immuno-informatics pipeline for predicting peptide-based 
 
 ## Scripts
 
-All the in-house scripts used in this pipeline are present in the [Scripts](https://github.com/ShuklaLab/PVPredPip/tree/main/Scripts) folder. The folder contain codes for:
+All the in-house scripts used in this pipeline are present in the [Scripts](https://github.com/ShuklaLab/PVPredPip/tree/main/Scripts) folder. The folder contains codes for:
 - [Filtering](https://github.com/ShuklaLab/PVPredPip/tree/main/Scripts/Filtering)
 - [Docking](https://github.com/ShuklaLab/PVPredPip/tree/main/Scripts/Docking)
 - [MD](https://github.com/ShuklaLab/PVPredPip/tree/main/Scripts/MD)
