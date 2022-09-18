@@ -1,6 +1,6 @@
 # PVPredPip: <ins>P</ins>eptide-based <ins>V</ins>accine <ins>Pred</ins>iction <ins>Pip</ins>eline (Version 1.0)
 
-PVPredPip (v1.0) is an immuno-informatics pipeline for predicting peptide-based vaccine candidates. It was developed and deployed for the prediction of peptide-based vaccine candidates for SARS-CoV-2.
+PVPredPip v1.0 is an immuno-informatics pipeline for predicting peptide-based vaccine candidates. It was developed and deployed for the prediction of peptide-based vaccine candidates for SARS-CoV-2.
 
 *Code maintainer: [@bodhayan](https://github.com/bodhayan)*
 
