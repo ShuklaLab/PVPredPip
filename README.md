@@ -20,7 +20,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Publication
 
-If you're using our tool and/or dataset, please cite:
+If you're using PVPredPip (Version 1), please cite:
 
 [Shukla P, Pandey P, Prasad B, Robinson T, Purohit R, D'Cruz LG, Tambuwala MM, Mutreja A, Harkin J, Rai TS, Murray EK, Gibson DS, Bjourson AJ. Immuno-informatics analysis predicts B and T cell consensus epitopes for designing peptide vaccine against SARS-CoV-2 with 99.82% global population coverage. Brief Bioinform. 2022 Jan 17;23(1):bbab496. doi: 10.1093/bib/bbab496. PMID: 34962259; PMCID: PMC8769887.](https://doi.org/10.1093/bib/bbab496)
 
